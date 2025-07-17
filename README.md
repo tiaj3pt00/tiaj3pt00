@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋 I'm Tia!
 
-<!--
-**tiaj3pt00/tiaj3pt00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student passionate about learning and growing as a developer.  
+🌱 Currently focused on building my portfolio with real-world projects.  
+🚀 Excited to explore web development, software engineering, and creative coding.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Languages: **Python**, **JavaScript**, **HTML**, **CSS**
+- Tools: **Git**, **GitHub**, **VS Code**
+- Learning: **React**, **Node.js**, **SQL**
+
+---
+
+## 📌 Projects
+
+### [My First Project](https://github.com/tiaj3pt00/REPO-NAME-HERE)
+*A short 1-2 sentence description of your project.*
+
+- 🔧 Built with: Tech used (e.g., HTML, CSS, JS)
+  
+
+---
+
+## 📈 GitHub Stats
+
+![Tia's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiaj3pt00&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaj3pt00&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](#) *(Add your profile link here)*
+- 🌐 [Portfolio Website](#) *(If you have one — or we can build it together!)*
+
+---
+
+> “Keep building. Keep learning. Stay curious.” ✨
+
